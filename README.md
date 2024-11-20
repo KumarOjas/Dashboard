@@ -71,6 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Install Python and Flask.
+To install flask ,type pip install flask.
 (Optional but recommended) Set up a virtual environment.
 Create a Python file with your Flask code (e.g., app.py).
 Run the Flask application with python app.py.
